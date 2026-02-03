@@ -1,9 +1,6 @@
 <h1 align="center">Daksh Jaitly</h1>
 <h3 align="center">Building things that shouldn’t exist yet.</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theDakshJaitly&theme=dark&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
@@ -27,14 +24,4 @@
   <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theDakshJaitly&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theDakshJaitly&theme=dark" />
 </p>
