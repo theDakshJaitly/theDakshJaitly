@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 Working on **[Sophos.ai](https://github.com/theDakshJaitly/Sophos.ai)**   
+- 🔭 Working on **[MEX](https://github.com/theDakshJaitly/mex)**   
 - 🌱 Learning **Machine Learning & systems thinking**  
 - 💬 Ask me about **CS, philosophy, psychology, and long-term bets**  
 - 📫 Reach me at **thedakshjaitly@gmail.com**  
